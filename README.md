@@ -1,0 +1,1 @@
+# rails-kaminari-or-will_paginate-readme
